@@ -21,4 +21,3 @@ t_list	*handle_three_args(char *dict_name, char *number, char **nbr_str)
 	*nbr_str = ft_strdup(number);
 	return (create_list(dict_name));
 }
-

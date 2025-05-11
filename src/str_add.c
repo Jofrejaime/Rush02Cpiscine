@@ -31,4 +31,3 @@ char	*str_add(char *a, char *b)
 	loop_add_digits(&v, a, b);
 	return (clean_add_result(v.res));
 }
-

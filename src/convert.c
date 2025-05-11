@@ -76,4 +76,3 @@ void	ft_put_number_name(char *nbr, t_list *dict, int *first)
 	}
 	process_recursive_part(nbr, dict, first);
 }
-

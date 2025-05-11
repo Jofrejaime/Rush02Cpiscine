@@ -38,7 +38,7 @@ char	*ft_strdup(char *src)
 
 int	ft_strlen(char *str)
 {
-	int len;
+	int		len;
 
 	len = 0;
 	while (str[len])

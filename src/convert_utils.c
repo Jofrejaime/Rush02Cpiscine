@@ -1,6 +1,7 @@
 #include "ft.h"
 
-static void	subtract_loop_until_less(char *nbr, char *divisor, char **quot, char **rest)
+static void	subtract_loop_until_less(char *nbr, char *divisor,
+				char **quot, char **rest)
 {
 	char	*tmp;
 	char	*count;
@@ -26,4 +27,3 @@ void	divide_str_number(char *nbr, char *divisor, char **quot, char **rest)
 {
 	subtract_loop_until_less(nbr, divisor, quot, rest);
 }
-

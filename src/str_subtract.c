@@ -74,4 +74,3 @@ char	*str_subtract(char *a, char *b)
 	loop_sub_digits(&v, a, b);
 	return (clean_sub_result(v.res));
 }
-
