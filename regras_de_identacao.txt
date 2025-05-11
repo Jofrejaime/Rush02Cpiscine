@@ -1,0 +1,4 @@
+uma função não pode tem mais de 25 linhas
+uma arquivo .c não pode ter mais de 5 funções
+não podemos ter mais de 5 argumentos em uma função,
+e não podemos ter mais de 5 declarações de variáveis em uma funcao
